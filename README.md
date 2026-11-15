@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Edcleidson Júnior</h1>
+<h1 align="center">Hi 👋, I'm Edcleidson Cardoso</h1>
 <h3 align="center">A Passionate Backend Developer From Brazil</h3>
 
 <div align="left">
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about <strong style="color: #61DAFB;">anything you want</strong>
 
-- 👨‍💻 You can find more about me in <a href="https://beacons.ai/eddiescj" style="color: #61DAFB; font-weight: 700; text-decoration: none;">EddieSCJ's site</a>
+- 👨‍💻 You can find more about me in <a href="https://edcleidsoncardoso.com" style="color: #61DAFB; font-weight: 700; text-decoration: none;">my site</a>
 
 - 📫 Contact me in <strong style="color: #61DAFB;">edcleidson.junior@gmail.com</strong>
 
